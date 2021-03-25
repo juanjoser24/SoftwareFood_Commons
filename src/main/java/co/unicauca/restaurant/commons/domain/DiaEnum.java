@@ -9,6 +9,6 @@ package co.unicauca.restaurant.commons.domain;
  *
  * @author braia
  */
-public class DiaEnum {
-    
+public enum DiaEnum {
+    Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo
 }
